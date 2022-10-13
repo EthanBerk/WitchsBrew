@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 5e70edb4b67c8094e86fa23445b86307
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1bfdceb9b4ffcac5db7031615ac132db, type: 3}
+  importOptions:
+    scale: 1
+    splitLayers: 0
+    splitSlices: 1
+    fileNameFormat: '{title}_{tag}_frame{tagframe1}'
+    ditheringAlgorithmType: 0
+    ditheringMatrixType: 0
+    colorMode: 0
+  spriteImportOptions:
+    pixelsPerUnit: 16
+    pivot: {x: 0.5, y: 0.5}
+    extrude: 0
+    meshType: 1
+    border: {x: 0, y: 0, z: 0, w: 0}
+  textureCreationOptions:
+    textureWrapMode: 1
+    filterMode: 0
+    alphaIsTransparency: 1
+  colabOptions:
+    exportToFile: 0
+    exportDirectory: Sprites/{filename}
+  animationOptions: []
+  sheetData:
+    frames:
+    - filename: Ingredients__frame1
+      frame:
+        x: 0
+        y: 0
+        w: 24
+        h: 6
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 24
+        h: 6
+      sourceSize:
+        w: 24
+        h: 6
+      duration: 100
+    meta:
+      version: 1.2.25-x64
+      image: Ingredients_sheet.png
+      format: RGBA8888
+      size:
+        w: 24
+        h: 6
+      scale: 1
+      frameTags: []
+      slices:
+      - name: Slice 1
+        color: '#0000ffff'
+        keys:
+        - frame: 0
+          bounds:
+            x: 15
+            y: 0
+            w: 4
+            h: 6
+          center:
+            x: 0
+            y: 0
+            w: 0
+            h: 0
+          pivot:
+            x: 0
+            y: 0
+      - name: Slice 2
+        color: '#0000ffff'
+        keys:
+        - frame: 0
+          bounds:
+            x: 10
+            y: 0
+            w: 4
+            h: 6
+          center:
+            x: 0
+            y: 0
+            w: 0
+            h: 0
+          pivot:
+            x: 0
+            y: 0
+      - name: Slice 3
+        color: '#0000ffff'
+        keys:
+        - frame: 0
+          bounds:
+            x: 5
+            y: 0
+            w: 4
+            h: 6
+          center:
+            x: 0
+            y: 0
+            w: 0
+            h: 0
+          pivot:
+            x: 0
+            y: 0
+      - name: Slice 4
+        color: '#0000ffff'
+        keys:
+        - frame: 0
+          bounds:
+            x: 0
+            y: 0
+            w: 4
+            h: 6
+          center:
+            x: 0
+            y: 0
+            w: 0
+            h: 0
+          pivot:
+            x: 0
+            y: 0
+    pathToSheetData: Temp/UnityTempFile-a412f454b21571f42a3cec56544cd238/asetempexports/Ingredients_data.json
+    aseFileName: Assets/Sprites/Items/Ingredients/Ingredients.aseprite

@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 878add98d4052644ea89007f7ee3d600
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1bfdceb9b4ffcac5db7031615ac132db, type: 3}
+  importOptions:
+    scale: 1
+    splitLayers: 0
+    splitSlices: 0
+    fileNameFormat: '{title}_{tag}_frame{tagframe1}'
+    ditheringAlgorithmType: 0
+    ditheringMatrixType: 0
+    colorMode: 0
+  spriteImportOptions:
+    pixelsPerUnit: 16
+    pivot: {x: 0.5, y: 0.5}
+    extrude: 0
+    meshType: 1
+    border: {x: 0, y: 0, z: 0, w: 0}
+  textureCreationOptions:
+    textureWrapMode: 1
+    filterMode: 0
+    alphaIsTransparency: 1
+  colabOptions:
+    exportToFile: 0
+    exportDirectory: Sprites/{filename}
+  animationOptions:
+  - tagName: Loop
+    animationOptions:
+      relativePath: 
+      componentType: 0
+      overrideDirection: 0
+      direction: 0
+      loopTime: 0
+      useCustomCurve: 0
+      customCurve:
+        serializedVersion: 2
+        curve: []
+        preInfinity: 2
+        postInfinity: 2
+        rotationOrder: 4
+  sheetData:
+    frames:
+    - filename: Restart_Loop_frame1
+      frame:
+        x: 0
+        y: 0
+        w: 16
+        h: 19
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 16
+        h: 19
+      sourceSize:
+        w: 16
+        h: 19
+      duration: 100
+    - filename: Restart_Loop_frame2
+      frame:
+        x: 16
+        y: 0
+        w: 16
+        h: 19
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 16
+        h: 19
+      sourceSize:
+        w: 16
+        h: 19
+      duration: 100
+    - filename: Restart_Loop_frame3
+      frame:
+        x: 32
+        y: 0
+        w: 16
+        h: 19
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 16
+        h: 19
+      sourceSize:
+        w: 16
+        h: 19
+      duration: 100
+    meta:
+      version: 1.2.25-x64
+      image: Restart_sheet.png
+      format: RGBA8888
+      size:
+        w: 48
+        h: 19
+      scale: 1
+      frameTags:
+      - name: Loop
+        from: 0
+        to: 2
+        direction: forward
+      slices: []
+    pathToSheetData: Temp/UnityTempFile-98b07a7b3b21031478475386c3f1d2cc/asetempexports/Restart_data.json
+    aseFileName: Assets/Sprites/UI/Restart.aseprite

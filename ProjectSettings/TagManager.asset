@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - C
+  - I
+  - B
+  - J
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Colison
+  - Water
+  - UI
+  - Rune
+  - Station
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4142007857
+    locked: 0
+  - name: BelowBelowBeforeBackground
+    uniqueID: 1561218057
+    locked: 0
+  - name: Bellow
+    uniqueID: 4235130177
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 2853350435
+    locked: 0
+  - name: Above
+    uniqueID: 951083071
+    locked: 0
+  - name: AboveAbove
+    uniqueID: 225103919
+    locked: 0
+  - name: UI
+    uniqueID: 3778944011
+    locked: 0

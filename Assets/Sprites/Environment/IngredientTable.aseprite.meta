@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: 1f3e9746fc744434d8d4ec6ef2d3b9ff
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1bfdceb9b4ffcac5db7031615ac132db, type: 3}
+  importOptions:
+    scale: 1
+    splitLayers: 0
+    splitSlices: 0
+    fileNameFormat: '{title}_{tag}_frame{tagframe1}'
+    ditheringAlgorithmType: 0
+    ditheringMatrixType: 0
+    colorMode: 0
+  spriteImportOptions:
+    pixelsPerUnit: 16
+    pivot: {x: 0.5, y: 0.5}
+    extrude: 0
+    meshType: 1
+    border: {x: 0, y: 0, z: 0, w: 0}
+  textureCreationOptions:
+    textureWrapMode: 1
+    filterMode: 0
+    alphaIsTransparency: 1
+  colabOptions:
+    exportToFile: 0
+    exportDirectory: Sprites/{filename}
+  animationOptions:
+  - tagName: Selected
+    animationOptions:
+      relativePath: 
+      componentType: 0
+      overrideDirection: 0
+      direction: 0
+      loopTime: 0
+      useCustomCurve: 0
+      customCurve:
+        serializedVersion: 2
+        curve: []
+        preInfinity: 2
+        postInfinity: 2
+        rotationOrder: 4
+  sheetData:
+    frames:
+    - filename: IngredientTable__frame1
+      frame:
+        x: 0
+        y: 0
+        w: 18
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 18
+        h: 16
+      sourceSize:
+        w: 18
+        h: 16
+      duration: 100
+    - filename: IngredientTable_Selected_frame1
+      frame:
+        x: 18
+        y: 0
+        w: 18
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 18
+        h: 16
+      sourceSize:
+        w: 18
+        h: 16
+      duration: 100
+    meta:
+      version: 1.2.25-x64
+      image: IngredientTable_sheet.png
+      format: RGBA8888
+      size:
+        w: 36
+        h: 16
+      scale: 1
+      frameTags:
+      - name: Selected
+        from: 1
+        to: 1
+        direction: forward
+      slices: []
+    pathToSheetData: Temp/UnityTempFile-ca895fcc62b49be46aeab4e57d792608/asetempexports/IngredientTable_data.json
+    aseFileName: Assets/Sprites/Environment/IngredientTable.aseprite

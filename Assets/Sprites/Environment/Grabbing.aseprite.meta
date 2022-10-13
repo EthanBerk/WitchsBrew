@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 4decc006a51f16b4a87175a775975ad4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1bfdceb9b4ffcac5db7031615ac132db, type: 3}
+  importOptions:
+    scale: 1
+    splitLayers: 0
+    splitSlices: 0
+    fileNameFormat: '{title}_{tag}_frame{tagframe1}'
+    ditheringAlgorithmType: 0
+    ditheringMatrixType: 0
+    colorMode: 0
+  spriteImportOptions:
+    pixelsPerUnit: 16
+    pivot: {x: 0.5, y: 0.5}
+    extrude: 0
+    meshType: 1
+    border: {x: 0, y: 0, z: 0, w: 0}
+  textureCreationOptions:
+    textureWrapMode: 1
+    filterMode: 0
+    alphaIsTransparency: 1
+  colabOptions:
+    exportToFile: 0
+    exportDirectory: Sprites/{filename}
+  animationOptions:
+  - tagName: Loop
+    animationOptions:
+      relativePath: 
+      componentType: 0
+      overrideDirection: 0
+      direction: 0
+      loopTime: 1
+      useCustomCurve: 0
+      customCurve:
+        serializedVersion: 2
+        curve: []
+        preInfinity: 2
+        postInfinity: 2
+        rotationOrder: 4
+  sheetData:
+    frames:
+    - filename: Grabbing_Loop_frame1
+      frame:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame2
+      frame:
+        x: 32
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame3
+      frame:
+        x: 64
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame4
+      frame:
+        x: 96
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame5
+      frame:
+        x: 128
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame6
+      frame:
+        x: 160
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame7
+      frame:
+        x: 192
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame8
+      frame:
+        x: 224
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame9
+      frame:
+        x: 256
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame10
+      frame:
+        x: 288
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame11
+      frame:
+        x: 320
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame12
+      frame:
+        x: 352
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame13
+      frame:
+        x: 384
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame14
+      frame:
+        x: 416
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame15
+      frame:
+        x: 448
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame16
+      frame:
+        x: 480
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame17
+      frame:
+        x: 512
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame18
+      frame:
+        x: 544
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame19
+      frame:
+        x: 576
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame20
+      frame:
+        x: 608
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame21
+      frame:
+        x: 640
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame22
+      frame:
+        x: 672
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame23
+      frame:
+        x: 704
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame24
+      frame:
+        x: 736
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame25
+      frame:
+        x: 768
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    - filename: Grabbing_Loop_frame26
+      frame:
+        x: 800
+        y: 0
+        w: 32
+        h: 16
+      rotated: 0
+      trimmed: 0
+      spriteSourceSize:
+        x: 0
+        y: 0
+        w: 32
+        h: 16
+      sourceSize:
+        w: 32
+        h: 16
+      duration: 100
+    meta:
+      version: 1.2.25-x64
+      image: Grabbing_sheet.png
+      format: RGBA8888
+      size:
+        w: 832
+        h: 16
+      scale: 1
+      frameTags:
+      - name: Loop
+        from: 0
+        to: 25
+        direction: forward
+      slices: []
+    pathToSheetData: Temp/UnityTempFile-dc0689b35ae544f489b7e88b7101f23d/asetempexports/Grabbing_data.json
+    aseFileName: Assets/Sprites/Environment/Grabbing.aseprite
